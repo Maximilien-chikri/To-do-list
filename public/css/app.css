@@ -6245,3 +6245,7 @@ body {
   text-decoration: line-through;
   opacity: 0.5;
 }
+
+.fa-trash-alt, .fa-check-square {
+  pointer-events: none;
+}
