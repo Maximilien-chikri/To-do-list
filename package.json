@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Maximilien-chikri/To-do-list/issues"
   },
-  "homepage": "https://github.com/Maximilien-chikri/To-do-list#readme"
+  "homepage": "https://github.com/Maximilien-chikri/To-do-list#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2"
+  }
 }
